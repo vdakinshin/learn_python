@@ -1,0 +1,4 @@
+def get_summ(something, something_else)
+	return something + something_else
+
+get_summ(2, 2)
